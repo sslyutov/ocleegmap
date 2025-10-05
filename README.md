@@ -19,7 +19,7 @@ category brain area
 | FC | Fronto-Central |	Between F and C	Motor control, integration |
 | C  | Central	Central | sulcus	Motor and somatosensory |
 | CP | Centro-Parietal |	Between C and P	Sensory-motor integration |
-| P	 | Parietal	Parietal | lobe	Spatial and sensory processing |
+| P	 | Parietal	       | Parietal lobe	Spatial and sensory processing |
 | PO | Parieto-Occipital |	Between P and O	Visual-spatial integration |
 | O	 | Occipital	Occipital | lobe	Vision and visual processing |
 | T	 | Temporal	Temporal | lobe	Auditory and language processing |
