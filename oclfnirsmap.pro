@@ -32,6 +32,7 @@ QMAKE_CXXFLAGS += /MP
 
 RESOURCES = oclfnirsmap.qrc
 
+SOURCE += sphera.cpp
 
 #RC_ICONS = ./resources/sss_b2_copy.ico
 
