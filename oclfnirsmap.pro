@@ -34,6 +34,8 @@ RESOURCES = oclfnirsmap.qrc
 
 INCLUDEPATH += $$PWD/../thirdparty/Win/OpenCL-SDK/install/include
 
+INCLUDEPATH += $$PWD/../thirdparty/Win/OpenCL-SDK/install/include/CL
+
 LIBS += -L$$PWD/../thirdparty/Win/OpenCL-SDK/install/lib
 
 LIBS += -lOpenCL
