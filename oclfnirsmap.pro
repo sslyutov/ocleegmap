@@ -32,8 +32,20 @@ QMAKE_CXXFLAGS += /MP
 
 RESOURCES = oclfnirsmap.qrc
 
+INCLUDEPATH += $$PWD/../thirdparty/Win/OpenCL-SDK/install/include
+
+LIBS += -L$$PWD/../thirdparty/Win/OpenCL-SDK/install/lib
+
+LIBS += -lOpenCL
+LIBS += -lOpenCLExt
+LIBS += -lOpenCLSDK
+LIBS += -lOpenCLSDKC
+LIBS += -lOpenCLSDKCpp
+LIBS += -lOpenCLUtils
+LIBS += -lOpenCLUtilsCpp
+
 SOURCE += sphera.cpp
 
-#RC_ICONS = ./resources/sss_b2_copy.ico
+# RC_ICONS = ./resources/sss_b2_copy.ico
 
-#include (media-rite.pri)
+# include (media-rite.pri)
